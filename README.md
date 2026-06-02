@@ -16,7 +16,7 @@
 - 🔭 Currently working on **VoiceTyper Pro** — an AI-powered voice-to-text SaaS app
 - 🌱 Actively learning **Node.js, Express, MongoDB & Advanced Python**
 - 🎯 Goal: Land a Full-Stack / Frontend Developer role in 2026
-- 📫 Reach me at: **prakash.developer@gmail.com**
+- 📫 Reach me at: **prakash.developer.cs@gmail.com**
 
 ---
 
