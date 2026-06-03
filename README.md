@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Prakash Shiromani 👋</h1>
 
 <p align="center">
-  <b>MCA Student · SaaS& MERN Stack Developer · Building for the web</b><br/>
+  <b>MCA Student · SaaS & MERN Stack Developer · Building for the web</b><br/>
   <i>Harcourt Butler Technical University · Kanpur Nagar, UP, India</i>
 </p>
 
