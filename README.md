@@ -49,8 +49,8 @@
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
 | **QueueMD** 🏥 | Smart medical queue management with live tracking ⚕️ | MERN Stack | [Live ↗](https://queuemd.vercel.app/) |
+| **JBL Headphone Showcase** 🎧 | Brand-accurate product page with responsive design | HTML, CSS, JS | [Live ↗](https://jbl-headphone-zeta.vercel.app/) |
 | **Titan Watch Landing Page** | Luxury product landing with scrollytelling animations | Next.js, Framer Motion, TypeScript | [Live ↗](https://titan-watch-landing-page.vercel.app/) |
-| **JBL Headphone Showcase** | Brand-accurate product page with responsive design | HTML, CSS, JS | [Live ↗](https://jbl-headphone-zeta.vercel.app/) |
 | **Bakery Bliss** | Responsive e-commerce site with product listing & cart UI | HTML, Bootstrap, JS | [Live ↗](https://vercel.com/prakash-kumar-shiromanis-projects/bakery-bliss) |
 | **Cinematic Architecture** | Visually immersive portfolio with CSS animations | HTML, CSS, JS | [Live ↗](https://cinematic-architecture.vercel.app/) |
 | **VoiceTyper Pro** 🔧 | AI voice-to-text SaaS with Smart Recognizer Pool (In Progress) | Python, Tkinter, Win32 | WIP |
