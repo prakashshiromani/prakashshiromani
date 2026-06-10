@@ -48,7 +48,10 @@
 
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
-| **QueueMD** | Streamlined medical queue management system with real-time updates | MERN Stack | [Live ↗](https://queuemd.vercel.app/) |
+| **QueueMD** 🏥 | Intelligent healthcare queue management platform | MERN Stack | [Live ↗](https://queuemd.vercel.app/) |
+| | → Real-time queue tracking & patient management | React, Node.js, MongoDB | |
+| | → Automated appointment scheduling & notifications | Express, WebSocket, Tailwind | |
+| | → Admin dashboard with analytics & insights | | |
 | **Titan Watch Landing Page** | Luxury product landing with scrollytelling animations | Next.js, Framer Motion, TypeScript | [Live ↗](https://titan-watch-landing-page.vercel.app/) |
 | **JBL Headphone Showcase** | Brand-accurate product page with responsive design | HTML, CSS, JS | [Live ↗](https://jbl-headphone-zeta.vercel.app/) |
 | **Bakery Bliss** | Responsive e-commerce site with product listing & cart UI | HTML, Bootstrap, JS | [Live ↗](https://vercel.com/prakash-kumar-shiromanis-projects/bakery-bliss) |
